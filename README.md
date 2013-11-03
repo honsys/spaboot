@@ -1,6 +1,7 @@
 spaboot
 =======
 
+<<<<<<< HEAD
 Single Page web App. (SPA or Spa) via NodeJS, Socket.IO, and Twitter Bootstrap / Bootswatch.
 
 ## Spa directory organization
@@ -16,3 +17,6 @@ Single Page web App. (SPA or Spa) via NodeJS, Socket.IO, and Twitter Bootstrap /
    i. ./multi_carousel/pub/css: CSS specific to this Spa
    i. ./multi_carousel/pub/js: client-side Javascript code specific to this Spa
 ---
+=======
+Single Page web App. (SPA) via NodeJS, Socket.IO, and Twitter Bootstrap / Bootswatch.
+>>>>>>> a991a3ffe5dd02cc9ae3cb8f0331cbda56040582
