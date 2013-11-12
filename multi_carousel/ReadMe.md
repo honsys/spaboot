@@ -1,2 +1,2 @@
 run the nodejs server app from this top-level project root directory...
-tbd: app.js server should check 'pwd' for this requirement and exit on error with approp. meseage!
+tbd: spa.js server should check 'pwd' for this requirement and exit on error with approp. meseage.
