@@ -3,6 +3,12 @@ spaboot
 
 ## Single Page web App. (SPA or Spa) via NodeJS, Socket.IO, and Twitter Bootstrap / Bootswatch.
 
+This is neither a framework nor does it use a framework (like Express). It is meant as an example
+that may be used to start, i.e. "boot up", a new single page GUI that is organized via TwitterBootstap
+CSS3 (and/or its custimazation via BootsWatch). Presumably the nature of a single page app. means there
+need be only one HTML (index.html) file. This can be purely hand edited, or a single jade template whose
+output HTML may or may not also be hand edited.
+
 ## Spa directory organization
 
 1. ReadMe.md: this file
