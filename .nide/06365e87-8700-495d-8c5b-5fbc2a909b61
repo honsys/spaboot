@@ -1,0 +1,8 @@
+{
+    "name": "spaboot",
+    "description": "node.js single page app. with bootstrap/boottswatch and socket.io",
+    "version": "0.0.0",
+    "author": "dbhon",
+    "dependencies": {},
+    "devDependencies": {}
+}
